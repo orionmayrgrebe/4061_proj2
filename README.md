@@ -7,7 +7,3 @@ Purpose:
 
 Compile:
   compile by typing gcc main.c phase1.c phase2.c phase3.c phase4.c -o main,
-  or by whatever makefile.
-
-Assumptions:
-  testcases are in src
